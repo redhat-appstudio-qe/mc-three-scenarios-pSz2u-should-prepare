@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-go-rhtap-three-component-scenarios-pph6
     app.kubernetes.io/part-of: mc-three-scenarios
-  name: devfile-go-rhtap-three-cotlqy
+  name: devfile-go-rhtap-three-coiyru
 spec:
   path: /
   port:
